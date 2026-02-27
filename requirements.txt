@@ -6,3 +6,7 @@ python-dotenv>=1.0.0
 # 网页部署（打开页面看日报）
 flask>=2.3.0
 gunicorn>=21.0.0
+
+
+# 其他依赖（比如flask、tweepy等）保持不变，新增这行
+gunicorn>=21.0.0
