@@ -1,0 +1,4 @@
+# 复制本文件为 .env 并填入真实凭证，.env 不要提交到版本库
+# X (Twitter) API v2 Bearer Token（在 developer.x.com 创建 App 后于 Keys and tokens 中生成）
+X_BEARER_TOKEN=AAAAAAAAAAAAAAAAAAAAANuF7wEAAAAAGdKgYfTtf3h6BV23pdKHwDmjFDE%3DtioV8R2mux3vBF1ygL5osxQk5LfVNFofmWD5a6ZsbgqbdDzTxf
+

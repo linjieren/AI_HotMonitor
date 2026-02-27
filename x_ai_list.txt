@@ -1,0 +1,90 @@
+username,category,description
+AndrewYNg,AI科学家/顶尖研究者,吴恩达，AI领域顶级学者，Coursera创始人
+ylecun,AI科学家/顶尖研究者,Yann LeCun，图灵奖得主，Meta AI首席科学家
+karpathy,AI科学家/顶尖研究者,Andrej Karpathy，前OpenAI研究科学家
+JeffDean,AI科学家/顶尖研究者,Jeff Dean，Google Senior Fellow，AI系统领军者
+demishassabis,AI科学家/顶尖研究者,Demis Hassabis，DeepMind联合创始人
+ilyasut,AI科学家/顶尖研究者,Ilya Sutskever，OpenAI联合创始人
+ShaneLegg,AI科学家/顶尖研究者,DeepMind联合创始人，AGI研究者
+DrJimFan,AI科学家/顶尖研究者,Jim Fan，NVIDIA AI研究科学家
+soumithchintala,AI科学家/顶尖研究者,Soumith Chintala，PyTorch创始人
+OriolVinyalsML,AI科学家/顶尖研究者,Oriol Vinyals，DeepMind核心研究员
+RichardSocher,AI科学家/顶尖研究者,AI研究员，创业者
+EMostaque,AI科学家/顶尖研究者,Stability AI CEO
+drfeifei,AI科学家/顶尖研究者,李飞飞，斯坦福大学AI实验室负责人
+rasbt,AI科学家/顶尖研究者,机器学习研究者与作者
+DanielaAmodei,AI科学家/顶尖研究者,Anthropic联合创始人
+antonosika,AI科学家/顶尖研究者,AI研究与工程专家
+sama,OpenAI核心圈,Sam Altman，OpenAI CEO
+gdb,OpenAI核心圈,Greg Brockman，OpenAI联合创始人
+mustafasuleyman,OpenAI核心圈,Mustafa Suleyman，AI领域重要人物
+_jasonwei,OpenAI核心圈,Jason Wei，OpenAI研究员
+alexandr_wang,OpenAI核心圈,Scale AI CEO
+AmenaiSabuwala,OpenAI核心圈,OpenAI团队成员
+alighodsi,AI创业者/CEO,LangChain联合创始人
+aidangomez,AI创业者/CEO,Cohere创始人
+AravSrinivas,AI创业者/CEO,Perplexity AI创始人
+bradlightcap,AI创业者/CEO,AI创业者与投资人
+cjpedregal,AI创业者/CEO,Notion联合创始人
+drorwe,AI创业者/CEO,AI创业者
+emollick,AI创业者/CEO,AI作者与创业者
+garrytan,AI创业者/CEO,Y Combinator CEO
+ivanhzhao,AI创业者/CEO,Inflection AI创始人
+julien_c,AI创业者/CEO,Hugging Face联合创始人
+levie,AI创业者/CEO,Box CEO
+mikeyk,AI创业者/CEO,Twitter早期创始人
+minnasong,AI创业者/CEO,AI创业者
+rauchg,AI创业者/CEO,Vercel CEO
+ryolu_,AI创业者/CEO,AI创业者
+satyanadella,AI创业者/CEO,微软CEO
+ScottWu46,AI创业者/CEO,AI创业者
+vasuman,AI创业者/CEO,AI工具创业者
+reidhoffman,硅谷投资人/大佬,LinkedIn联合创始人，顶级投资人
+pmarca,硅谷投资人/大佬,Andreessen Horowitz联合创始人
+naval,硅谷投资人/大佬,AngelList创始人，知名投资人
+paulg,硅谷投资人/大佬,Y Combinator创始人
+jeffreyhuber,硅谷投资人/大佬,硅谷投资人
+benchmark,硅谷投资人/大佬,Benchmark Capital官方账号
+nickaturley,硅谷投资人/大佬,硅谷投资人
+kevinweil,硅谷投资人/大佬,科技投资人
+danshipper,硅谷投资人/大佬,Product Hunt创始人
+mntruell,硅谷投资人/大佬,硅谷投资人
+jasonfried,硅谷投资人/大佬,Basecamp创始人
+amasad,硅谷投资人/大佬,Replit CEO
+alexgraveley,硅谷投资人/大佬,硅谷投资人
+c_valenzuelab,硅谷投资人/大佬,投资人
+jackclarkSF,硅谷投资人/大佬,Anthropic早期成员
+_mohansolo,硅谷投资人/大佬,投资人
+kloss_xyz,硅谷投资人/大佬,投资人
+rileybrown,硅谷投资人/大佬,投资人
+hwchase17,产品/技术/开发者,LangChain创始人
+levelsio,产品/技术/开发者,独立开发者，连续创业者
+lexfridman,产品/技术/开发者,麻省理工研究员，播客主理人
+jackfriks,产品/技术/开发者,开发者
+MengTo,产品/技术/开发者,设计师&开发者
+steipete,产品/技术/开发者,iOS知名开发者
+gregisenberg,产品/技术/开发者,开发者
+corbin_braun,产品/技术/开发者,开发者
+marclou,产品/技术/开发者,开发者
+Hesamation,产品/技术/开发者,开发者
+rryssf_,产品/技术/开发者,开发者
+egeberkina,产品/技术/开发者,开发者
+AmirMushich,产品/技术/开发者,开发者
+0xROAS,产品/技术/开发者,AI营销开发者
+lennysan,内容/趋势/自媒体,Lenny's Newsletter主理人
+Artedeingenio,内容/趋势/自媒体,科技内容创作者
+omooretweets,内容/趋势/自媒体,科技博主
+polynoamial,内容/趋势/自媒体,AI内容博主
+saranormous,内容/趋势/自媒体,AI博主
+ashtom,内容/趋势/自媒体,科技博主
+JonathanRoss321,内容/趋势/自媒体,科技博主
+8enmann,内容/趋势/自媒体,AI博主
+tkexpress11,内容/趋势/自媒体,内容博主
+MS_BASE44,内容/趋势/自媒体,内容博主
+jeffwsurf,内容/趋势/自媒体,内容博主
+ctnzr,内容/趋势/自媒体,科技博主
+EXM7777,内容/趋势/自媒体,内容博主
+eptwts,内容/趋势/自媒体,内容博主
+godofprompt,内容/趋势/自媒体,Prompt博主
+BerntBornich,内容/趋势/自媒体,科技博主
+elonmusk,科技顶流,马斯克，特斯拉 X SpaceX CEO

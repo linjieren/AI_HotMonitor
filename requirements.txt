@@ -1,0 +1,8 @@
+# AI 前沿日报监控工具 - 依赖
+# 不装 tweepy 时使用模拟数据也可运行（仅用 Python 标准库）
+tweepy>=4.14.0
+python-dotenv>=1.0.0
+
+# 网页部署（打开页面看日报）
+flask>=2.3.0
+gunicorn>=21.0.0
